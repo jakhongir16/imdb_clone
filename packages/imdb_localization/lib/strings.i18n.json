@@ -1,0 +1,9 @@
+{
+  "applicationName": "IMDB Clone",
+  "main": {
+    "home": "Home",
+    "search": "Search",
+    "video": "Video",
+    "profile": "Profile"
+  }
+}
